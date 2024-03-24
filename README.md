@@ -1,5 +1,5 @@
 # See The App☁️⛅️🌧️☀️
-[Wather-Forecast-App](https://660087d1eb203722411fad0b--admirable-entremet-050b3b.netlify.app9)
+[Weather-Forecast-App](https://660087d1eb203722411fad0b--admirable-entremet-050b3b.netlify.app9)
 
 
 # React + TypeScript + Vite
